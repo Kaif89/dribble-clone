@@ -30,6 +30,8 @@ bash
 Copy code
 cd dribbble-clone
 Open index.html in your preferred browser to view the project.
+
+
 🌟 Screenshots
 
 ![Dribbble - Discover the World's Top Designer   Creative Professionals - Google Chrome 11_26_2024 10_16_12 PM](https://github.com/user-attachments/assets/9b2170cb-4751-4beb-8f45-82431d863b0a)
