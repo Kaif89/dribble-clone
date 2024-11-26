@@ -20,11 +20,14 @@ Copy code
 🛠️ Technologies Used
 HTML5 for structure
 CSS3 for styling
+
 💡 How to Use
 Clone the repository:
 bash
 Copy code
+
 git clone https://github.com/your-username/dribbble-clone.git
+
 Navigate to the project folder:
 bash
 Copy code
